@@ -12,3 +12,5 @@
 *.iws
 *.iml
 *.ipr
+
+*.log

@@ -11,6 +11,7 @@ import org.springframework.web.servlet.config.annotation.WebMvcConfigurerAdapter
 public class TaskordionApplication {
 
 	public static void main(String[] args) {
+
 		SpringApplication.run(TaskordionApplication.class, args);
 	}
 }
